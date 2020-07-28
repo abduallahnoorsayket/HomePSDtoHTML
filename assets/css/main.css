@@ -147,7 +147,29 @@ button p {
     font-size: 20px;
     padding-left: 100px;
     padding-top: 180px;
+    position: relative;
+    /* text-align: center;
+    color: black; */
 }
+
+.imagerelative {
+    position: relative;
+}
+
+.imageabsolute {
+    position: absolute;
+    top: 110px;
+    left: 380px;
+}
+
+
+/* .centered {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: black
+} */
 
 
 /* .box .relative-server {
