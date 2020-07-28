@@ -1,0 +1,138 @@
+#navbar {
+    width: 1921px;
+    height: 86px;
+    background-color: #ffffff;
+}
+
+
+/* nav li a {
+    padding-left: 50px;
+    padding-right: 50px;
+} */
+
+nav ul {
+    list-style-type: none;
+    margin: 50px 0 0 400px;
+    padding: 0;
+    overflow: hidden;
+    background-color: white;
+    position: fixed;
+    top: 0;
+    width: 100%;
+    position: -webkit-sticky;
+    position: sticky;
+    top: 0;
+    /* Style for "HOME" */
+    /* width: 701px;
+    height: 10px; */
+    color: #2f3f54;
+    font-family: "Open Sans";
+    font-size: 14px;
+    font-weight: 700;
+    text-transform: uppercase;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: rgba(7, 172, 223, 0.698);
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+.rectangle02 {
+    /* Style for "Rectangle" */
+    width: 1923px;
+    height: 969px;
+    background-color: #267ae9;
+}
+
+.rectangle02 .text {
+    /* Style for "Text" */
+    width: 544px;
+    height: 402px;
+    padding: 130px 0 100px 250px;
+}
+
+.text p {
+    /* Style for "Simple – E" */
+    width: 303px;
+    height: 12px;
+    color: #ffffff;
+    font-family: Lato;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 14px;
+}
+
+.text h5 {
+    /* Style for "The Best W" */
+    width: 542px;
+    height: 5px;
+    color: #ffffff;
+    font-family: "Roboto - Black";
+    font-size: 28px;
+    font-weight: 200;
+    line-height: 12px;
+    text-transform: uppercase;
+}
+
+.text h6 {
+    /* Style for "Starting a" */
+    width: 261px;
+    height: 10px;
+    color: #ffffff;
+    font-family: Lato;
+    font-size: 15px;
+    font-weight: 700;
+    line-height: 15px;
+}
+
+.text ul {
+    width: 203px;
+    height: 12px;
+    color: #ffffff;
+    font-family: Lato;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 14px;
+    list-style-image: url('./assets/images/list.png');
+    list-style-type: square;
+    padding-left: 5px;
+    padding-bottom: 18px;
+}
+
+ul li {
+    padding-bottom: 10px;
+}
+
+.text button {
+    /* Style for "Rounded Re" */
+    width: 290px;
+    height: 47px;
+    border-radius: 24px;
+    border: 3px solid #ffffff;
+    background-color: #267ae9;
+    margin-top: 30px;
+}
+
+button p {
+    /* Style for "Get Starte" */
+    width: 131px;
+    height: 10px;
+    color: #ffffff;
+    font-family: Lato;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 24px;
+    text-transform: uppercase;
+}
+
+.text img {
+    float: right;
+    padding-left: 50px;
+}
