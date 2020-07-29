@@ -180,7 +180,7 @@ button p {
     font-size: 70px;
 }
 
-.boxShadow {
+.boxShadow01 {
     /* Style for "bg" */
     width: 1140px;
     height: 303px;
@@ -196,6 +196,92 @@ button p {
 .backgound {
     width: 1920px;
     height: 6456px;
+}
+
+.textbox {
+    width: 452px;
+    height: 68px;
+    box-shadow: 0 21px 49px 1px rgba(41, 44, 61, 0.15);
+    border-radius: 2px 0 0 2px;
+    background-color: #ffffff;
+    padding-left: 200px;
+    margin-left: 400px;
+    display: block;
+    position: relative;
+    padding-top: 2px;
+    /* z-index: -1; */
+}
+
+.textbox p {
+    /* Style for "Find your" */
+    width: 193px;
+    height: 1px;
+    opacity: 0.58;
+    color: #4a6385;
+    font-family: Lato;
+    font-size: 14px;
+    font-weight: 200;
+    line-height: 4px;
+    padding-top: 20px;
+    text-align: left;
+}
+
+.texboxbutton {
+    width: 210px;
+    height: 68px;
+    box-shadow: 0 21px 49px 1px rgba(41, 44, 61, 0.15);
+    border-radius: 0 2px 2px 0;
+    background-color: #2575e7;
+    padding-left: 70px;
+    margin-left: 450px;
+    position: absolute;
+    margin-bottom: 120px;
+    margin-top: -50px;
+}
+
+.texboxbutton p {
+    /* Style for "Search Dom" */
+    width: 94px;
+    height: 10px;
+    color: #ffffff;
+    font-family: Lato;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 24px;
+    padding-top: 10px;
+}
+
+.boxShsow02 {
+    /* Style for "bg" */
+    width: 555px;
+    height: 783px;
+    box-shadow: 0 21px 49px 1px rgba(41, 44, 61, 0.15);
+    border-radius: 2px;
+    background-color: #267ae9;
+    margin-top: 180px;
+    margin-left: 250px;
+}
+
+.boxSidebar {
+    /* Style for "bg" */
+    width: 105px;
+    height: 783px;
+    border-radius: 2px 0 0 2px;
+    background-color: #ffffff;
+}
+
+.LotsOfHosting {
+    width: 503px;
+    height: 89px;
+    color: #2f3f54;
+    font-family: Roboto;
+    font-size: 40px;
+    font-weight: 700;
+    line-height: 50px;
+}
+
+.LotsOfHosting h3 {
+    color: #267ae9;
 }
 
 
