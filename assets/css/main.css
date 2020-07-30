@@ -439,6 +439,103 @@
     .SEO_WP_built_using_Live_Composer_—_a_front_end_ img {
         float: right;
     }
+    
+    .flex-container02 {
+        display: flex;
+        flex-wrap: nowrap;
+        padding-left: 25px;
+        margin-top: 200px;
+    }
+    
+    .flex-container .box2 {
+        background-color: #fafafa;
+        width: 200%;
+        margin: 0px;
+        text-align: left;
+        line-height: 20px;
+        font-size: 20px;
+        padding-left: 100px;
+        padding-top: 280px;
+        position: relative;
+        /* text-align: center;
+    color: black; */
+    }
+    
+    .box2 h3 {
+        font-size: 40px;
+        font-family: "Roboto";
+        color: rgb(38, 122, 233);
+        font-weight: bold;
+        line-height: 1.35;
+        text-align: left;
+        position: absolute;
+        left: 388.844px;
+        top: 2790.6px;
+        /* z-index: 156; */
+        margin-top: 150px;
+    }
+    
+    .box2 p {
+        font-size: 14px;
+        font-family: "Lato";
+        color: rgb(74, 99, 133);
+        line-height: 1.714;
+        text-align: left;
+        position: absolute;
+        left: 388.134px;
+        top: 2860.25px;
+        width: 597px;
+        height: 86px;
+        margin-top: 175px;
+    }
+    
+    .box2 ul {
+        list-style-type: none;
+        margin: 0;
+        padding: 0;
+        overflow: hidden;
+        background-color: #fafafa;
+        margin-top: 700px;
+        width: 600px;
+        margin-left: 400px;
+    }
+    
+    .box2 li {
+        float: left;
+        padding-right: 50px;
+        color: #2f3f54;
+        font-family: Roboto;
+        font-size: 20px;
+        font-weight: 400;
+        line-height: 52px;
+    }
+    
+    .box2 img {
+        padding-top: 480px;
+    }
+    
+    .box2 h5 {
+        font-size: 34px;
+        font-family: "Roboto";
+        color: rgb(47, 63, 84);
+        line-height: 1.588;
+        position: absolute;
+        left: 388.413px;
+        top: 3173.781px;
+        z-index: 157;
+        margin-top: 150px;
+    }
+    
+    .Starts_at__9_99_month {
+        font-size: 34px;
+        font-family: "Roboto";
+        color: rgb(47, 63, 84);
+        line-height: 1.588;
+        position: absolute;
+        left: 388.413px;
+        top: 3173.781px;
+        z-index: 157;
+    }
     /* .Unlimited_Disk_Space {
         font-size: 20px;
         font-family: "Roboto";
