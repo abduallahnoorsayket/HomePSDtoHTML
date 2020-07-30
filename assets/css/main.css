@@ -353,35 +353,99 @@
         margin-top: 200px;
         /* z-index: 144; */
     }
-    /* .content {
-    width: 183px;
-    height: 19px;
-    color: #ffffff;
-    font-family: "Open Sans";
-    font-size: 20px;
-    font-weight: 700;
-    line-height: 26px;
-    padding-left: 200px;
-    padding-top: 85px;
-} */
-    /* {
-    Text style for "Y, ou can"
-
-font-family: "Lato - Regular";
-font-weight: 400;
-Text style for "youtu.be/B" color: #2575e7;
-font-family: "Lato - Bold";
-font-weight: 700;
-
-}
-*/
+    /* .boxShadow03 img {
+        padding: 76px 65px 27px 180px;
+    } */
     
-    .Rectangle_15 {
-        background-color: rgb(250, 250, 250);
-        position: absolute;
-        left: 0px;
-        top: 2172px;
-        width: 1920px;
-        height: 1101px;
-        z-index: 142;
+    div.gallery {
+        margin: 65px;
+        /* border: 1px solid #ccc; */
+        float: left;
+        width: 160px;
+        padding-left: 70px;
     }
+    
+    div.gallery img {
+        width: 100%;
+        height: auto;
+    }
+    
+    div.desc {
+        padding: 15px;
+        text-align: center;
+    }
+    
+    .flex-container .box2 {
+        background-color: #fafafa;
+        width: 200%;
+        margin: 0px;
+        text-align: left;
+        line-height: 20px;
+        font-size: 20px;
+        padding-left: 100px;
+        padding-top: 280px;
+        position: relative;
+    }
+    
+    .Get_Started__Today_s_Offers {
+        font-size: 40px;
+        font-family: "Roboto";
+        color: rgb(38, 122, 233);
+        font-weight: bold;
+        line-height: 1.35;
+        text-align: left;
+        position: absolute;
+        left: 388.844px;
+        top: 2790.6px;
+        /* z-index: 156; */
+        margin-top: 150px;
+    }
+    
+    .SEO_WP_built_using_Live_Composer_—_a_front_end_ {
+        font-size: 14px;
+        font-family: "Lato";
+        color: rgb(74, 99, 133);
+        line-height: 1.714;
+        text-align: left;
+        position: absolute;
+        left: 388.134px;
+        top: 2860.25px;
+        width: 597px;
+        height: 86px;
+        margin-top: 175px;
+        /* z-index: 154; */
+    }
+    
+    .getstarted ul {
+        list-style-type: none;
+        margin: 0;
+        padding: 0;
+        overflow: hidden;
+        background-color: #fafafa;
+        margin-top: 80px;
+        width: 600px;
+    }
+    
+    .getstarted li {
+        float: left;
+        padding-right: 50px;
+        color: #2f3f54;
+        font-family: Roboto;
+        font-size: 20px;
+        font-weight: 400;
+        line-height: 52px;
+    }
+    
+    .SEO_WP_built_using_Live_Composer_—_a_front_end_ img {
+        float: right;
+    }
+    /* .Unlimited_Disk_Space {
+        font-size: 20px;
+        font-family: "Roboto";
+        color: rgb(47, 63, 84);
+        line-height: 2.6;
+        position: absolute;
+        left: 426.88px;
+        top: 3016.198px;
+        z-index: 158;
+    } */
