@@ -741,6 +741,40 @@
         width: 240px;
         height: 167px;
         z-index: 177;
+        padding-left: 250px;
+        margin-top: -140px;
+    }
+    
+    .sideBox h5 {
+        font-size: 16px;
+        font-family: "Lato";
+        color: rgb(38, 122, 233);
+        font-weight: bold;
+        line-height: 1.875;
+        /* position: absolute; */
+        left: 624.203px;
+        top: 4996.546px;
+        width: 240px;
+        height: 167px;
+        z-index: 177;
+        padding-left: 250px;
+    }
+    
+    .sliderelipse {
+        border-radius: 50%;
+        background-color: rgb(38, 122, 233);
+        position: absolute;
+        left: 930px;
+        top: 5304px;
+        width: 10px;
+        height: 10px;
+        z-index: 169;
+    }
+    
+    .sliderImage {
+        position: absolute;
+        margin-top: 550px;
+        margin-left: 900px;
     }
     
     .There_are_many_variations_of_passages_of_Lorem_ {
